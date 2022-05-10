@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahita098
+- 👋 Hi, I’m mahita
 - 🌱 I’m currently learning Html & Css
 
 <!---
